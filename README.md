@@ -1,11 +1,6 @@
 # 🛑🛑   OTES   🛑🛑
 ### (One Tap Emergency Service)
-Link to the Demonstration video of functioning of OTES: https://www.youtube.com/watch?v=TXTC7EMBT1Y 
 
-<img src="https://github.com/supu2701/Open-CV-Projects/blob/main/KWoC.jpeg">
-
-## ▶ This Open Source Project was Selected for Kharagpur Winter of Code by IIT Kharagpur with me being the Mentor and Project Maintainer of OTES.
-<img src="https://github.com/supu2701/OTES-App/blob/master/OTES.jfif">
 
 
 
